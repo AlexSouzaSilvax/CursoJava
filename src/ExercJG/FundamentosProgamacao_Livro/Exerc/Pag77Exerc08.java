@@ -1,4 +1,4 @@
-package ExercJG;
+package ExercJG.FundamentosProgamacao_Livro.Exerc;
 
 import java.util.Scanner;
 
