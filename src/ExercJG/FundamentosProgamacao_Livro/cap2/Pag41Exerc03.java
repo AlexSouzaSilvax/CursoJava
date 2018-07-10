@@ -1,4 +1,4 @@
-package ExercJG;
+package ExercJG.FundamentosProgamacao_Livro.cap2;
 
 import javax.swing.JOptionPane;
 
