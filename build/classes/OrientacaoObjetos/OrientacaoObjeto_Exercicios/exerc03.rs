@@ -1,3 +1,3 @@
-OrientacaoObjeto_Exercicios.exerc03
 OrientacaoObjeto_Exercicios.testesAluno
 OrientacaoObjeto_Exercicios.aluno
+OrientacaoObjeto_Exercicios.exerc03
