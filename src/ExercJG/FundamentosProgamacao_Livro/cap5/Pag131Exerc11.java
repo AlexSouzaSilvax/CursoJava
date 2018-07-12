@@ -8,7 +8,7 @@ public class Pag131Exerc11 {
 
         int number, qtde = 0;
 
-        number = Integer.parseInt(JOptionPane.showInputDialog(""));
+        number = Integer.parseInt(JOptionPane.showInputDialog("Entre com um número:"));
         for (int i = 1; i < number; i++) {
             if (number / i == 0) {
                 qtde = qtde + 1;
