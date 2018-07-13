@@ -89,14 +89,14 @@ public class Pag136Exerc15 {
                     menorP = precoFinal;
                 }
             }
-            adicional = adicional / 12;
-            JOptionPane.showMessageDialog(null, "Adicional: " + adicional
-                    + "\nMaiorP: " + maiorP
-                    + "\nMenorP: " + menorP
-                    + "\nTotImp: " + totImp
-                    + "\nQtd B: " + qtB
-                    + "\nQtd N: " + qtdN
-                    + "\nQtd C: " + qtdC);
         }
+        adicional = adicional / 12;
+        JOptionPane.showMessageDialog(null, "Adicional: " + adicional
+                + "\nMaiorP: " + maiorP
+                + "\nMenorP: " + menorP
+                + "\nTotImp: " + totImp
+                + "\nQtd B: " + qtB
+                + "\nQtd N: " + qtdN
+                + "\nQtd C: " + qtdC);
     }
 }
