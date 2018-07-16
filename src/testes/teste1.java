@@ -21,26 +21,23 @@ public class teste1 {
         String alex = scan.next();
 
         if (alex == alex) {
-        System.out.println("Hi Alex, Your name is verry beatiful.");
-		} else {
-        System.out.println("Desculpe, seu nome não esta na lista./nSorry, Your name is not on the list.");
-		}
-
+            System.out.println("Hi Alex, Your name is verry beatiful.");
+        } else {
+            System.out.println("Desculpe, seu nome não esta na lista./nSorry, Your name is not on the list.");
+        }
 
         System.out.println("Entre com o seu nome:");
         String rafael = scan.next();
         if (rafael == rafael) {
-       
-        System.out.println("Hi Rafael,Seu nome é bonito.");
-        }
 
+            System.out.println("Hi Rafael,Seu nome é bonito.");
+        }
 
         System.out.println("Entre com o seu nome:");
         String allan = scan.next();
         if (allan == allan) {
         }
         System.out.println("Hi Allan,Seu nome é bonito.");
-
 
         System.out.println("Entre com o seu nome:");
         String cintia = scan.next();
