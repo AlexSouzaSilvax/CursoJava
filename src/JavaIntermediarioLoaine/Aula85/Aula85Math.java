@@ -4,7 +4,7 @@ public class Aula85Math {
 
     public static void main(String[] args) {
 
-        System.out.println(Math.pow(2, 3)); // Potência 
+        System.out.println("Potência de 2 " + Math.pow(2, 3)); // Potência 
 
         System.out.println(Math.round(4.7)); // Acima de 4.5 arrendonda p/cima.  
 
