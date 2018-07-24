@@ -6,7 +6,6 @@ public class aula1407 {
 
     public static void main(String[] args) {
 
-        
         String login = "";
         String senha = "";
 
@@ -19,7 +18,7 @@ public class aula1407 {
                     System.exit(0);
                 }
             }
-            JOptionPane.showMessageDialog(null, "Login e senha incorretos\nTente novamente mais tarde..", "GUANABARA", 0);
+            JOptionPane.showMessageDialog(null, "Login e senha incorretos!\nTente novamente mais tarde..", "GUANABARA", 0);
             System.exit(0);
         }
     }
