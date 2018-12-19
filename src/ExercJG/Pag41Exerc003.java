@@ -23,7 +23,7 @@ public class Pag41Exerc003 {
         } catch (NumberFormatException erro) {
             JOptionPane.showMessageDialog(null, "Houve um erro na conversão, digite apenas caracteres numéricos." + erro.toString());
         }
-        System.exit(0);
+        System.exit(0);//
     }
 
 }
